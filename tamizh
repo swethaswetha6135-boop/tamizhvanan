@@ -64,7 +64,7 @@
 
   <header>
     <h1>Student Portfolio</h1>
-    <p>Hi, I am <b>XXX P</b> | Bachelor of  Computer Science student</p>
+    <p>Hi, I am thamizhvanan <b> P<T/b> | Bachelor of  Computer Science student</p>
   </header>
 
   <nav>
@@ -86,7 +86,7 @@
     <h2>Education</h2>
     <div class="card">
       <p><b> Bachelor of Computer Science student</b> – Tirukovilur college of arts and science  (2024-2027)</p>
-      <p><b>Higher Secondary</b> –  AVNC higher sec School (2017-2018)</p>
+      <p><b>Higher Secondary</b> –  Govt higher sec School (2023-2024)</p>
     </div>
   </section>
 
